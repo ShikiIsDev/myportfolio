@@ -1,12 +1,8 @@
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-vercel';
 
 export default {
   kit: {
     adapter: adapter({
-      strict: false
     }),
-    paths: {
-      base: process.env.NODE_ENV === 'production' ? '/myportfolio' : ''
-    }
   }
 };
