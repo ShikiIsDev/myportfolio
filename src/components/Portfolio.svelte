@@ -34,5 +34,13 @@
         <a href="/portfolio/wordpresssite" class="block">
             <img class="w-full rounded transform transition-transform duration-300 hover:scale-105" src="images/WordpressSite.PNG" alt="WordpressSite" />
         </a>
+
+        <a href="/portfolio/fyp" class="block">
+            <img class="w-full rounded transform transition-transform duration-300 hover:scale-105" src="images/fyp.jpg" alt="FYP" />
+        </a>
+
+        <a href="/portfolio/cookie" class="block">
+            <img class="w-full rounded transform transition-transform duration-300 hover:scale-105" src="images/cookie.jpg" alt="cookie website" />
+        </a>
     </div>
 </div>

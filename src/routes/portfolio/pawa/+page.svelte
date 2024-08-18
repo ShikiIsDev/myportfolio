@@ -1,6 +1,6 @@
 <script>
-    import Navbar from '/src/components/Navbar.svelte';
-    import Card from '/src/components/Card.svelte';
+    import Navbar from '../../../components/Navbar.svelte';
+    import Card from '../../../components/Card.svelte';
 </script>
 
 <Navbar />
